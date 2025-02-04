@@ -5,6 +5,7 @@
 
 #include "factorial.h"
 #include <stdexcept>
+#include <iostream>
 
 /**
  * @brief Computes factorial recursively.
